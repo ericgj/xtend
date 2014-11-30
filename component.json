@@ -1,0 +1,15 @@
+{
+  "name": "xtend",
+  "repo": "ericgj/xtend",
+  "description": "extend like a boss",
+  "version": "4.0.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "immutable.js",
+  "scripts": [
+    "immutable.js",
+    "mutable.js"
+  ]
+}
